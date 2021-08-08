@@ -1,6 +1,8 @@
 # XeroxPrinterAMDP
  
-User Manual
+#User Manual
+
+#
 http://yflife.azurewebsites.net/download/Xerox/AMDP/01 AliPay_TopUp_20191011.pdf
 http://yflife.azurewebsites.net/download/Xerox/AMDP/02 Print Client MacOS_20191011.pdf
 http://yflife.azurewebsites.net/download/Xerox/AMDP/03 Print Client Win7_20191011.pdf
@@ -17,6 +19,6 @@ http://yflife.azurewebsites.net/download/Xerox/AMDP/13 Print Client (Company Net
 http://yflife.azurewebsites.net/download/Xerox/AMDP/AMDPv5.5 PRO Admin Guide v1.1(Customer_Copy).pdf
 http://yflife.azurewebsites.net/download/Xerox/AMDP/YF Life User Manual_20191011.pdf
 
-Software
+#Software
 http://yflife.azurewebsites.net/download/Xerox/AMDP/YF_Life_Agent_Mac_PrintClient_20191008.pkg
 http://yflife.azurewebsites.net/download/Xerox/AMDP/YF_Life_Agent_PrintClient_20191009.zip
