@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="ClientProgram.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+    </sectionGroup>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="ClientProgram.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <system.runtime.remoting>
+    <customErrors mode="off" />
+  </system.runtime.remoting>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <applicationSettings>
+    <ClientProgram.My.MySettings>
+      <setting name="PORT" serializeAs="String">
+        <value>31002</value>
+      </setting>
+      <setting name="CLIENT_AGENT_PORT" serializeAs="String">
+        <value>31001</value>
+      </setting>
+      <setting name="CLIENT_AGENT_UPDATE_INTERVAL" serializeAs="String">
+        <value>20</value>
+      </setting>
+      <setting name="CLIENT_AGENT_URI" serializeAs="String">
+        <value>tcp://127.0.0.1:31001</value>
+      </setting>
+      <setting name="SKIPLOGIN" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="LOGGING" serializeAs="String">
+        <value>Y</value>
+      </setting>
+      <setting name="TOPMOST" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="DEFAULT_ADDRESS" serializeAs="String">
+        <value>http://{PRINT_SERVER_IP}/ClientPortal/</value>
+      </setting>
+      <setting name="SUPPRESS_ERROR" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="CHECK_IP_INTERVAL" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="USEIPADDRESS" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="BINDTO" serializeAs="String">
+        <value>127.0.0.1</value>
+      </setting>
+      <setting name="SUBNET" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="AGNET_MONITOR_SEC" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="AGNET_INIT_SEC" serializeAs="String">
+        <value>10</value>
+      </setting>
+      <setting name="AGENT_PORT" serializeAs="String">
+        <value>31001</value>
+      </setting>
+      <setting name="SUBSCRIPTION_LIFETIME_SEC" serializeAs="String">
+        <value>300</value>
+      </setting>
+    </ClientProgram.My.MySettings>
+  </applicationSettings>
+  <userSettings>
+    <ClientProgram.My.MySettings>
+      <setting name="UID" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="PWD" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="MONITOR_AGENT_URI_2" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="AUTOLOGIN" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="SINGLESIGNON" serializeAs="String">
+        <value>N</value>
+      </setting>
+      <setting name="SHOW_AGENT_WIN" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="MONITOR_AGENT_URI_1" serializeAs="String">
+        <value>tcp://192.168.8.232:30001</value>
+      </setting>
+      <setting name="ZONE" serializeAs="String">
+        <value>1</value>
+      </setting>
+    </ClientProgram.My.MySettings>
+  </userSettings>
+</configuration>
