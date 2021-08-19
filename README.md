@@ -2,6 +2,8 @@
  
 #Software
 #
+Manual
+https://youtu.be/efrsQJM4Ct0
 
 Win10/7 install setup
 http://yflife.azurewebsites.net/download/Xerox/AMDP/YF_Life_Agent_PrintClient_20191101.zip
